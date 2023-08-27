@@ -1,6 +1,7 @@
-00_src			| pliki źródłowe dla dokumentu, pracy tworzonej w katalogu głównym
-40_ref			| materiały referencyjne, rzeczy stworzone przez inne osoby
+00_src			  | pliki źródłowe dla dokumentu, pracy tworzonej w katalogu głównym
+40_ref			  | materiały referencyjne, rzeczy stworzone przez inne osoby
 50_workbench	| warsztat, bieżące robocze pliki
-70_events		| materiały z konkretnych wydarzeń (np. prezentacji, konferencji, spotkań celowych)
-98_stash		| jakieś podręczne rzeczy, mindmapy, notatki, coś stworzonego przez zespół projektu
-99_old			| stare szpeje, rzeczy które w zasadzie można by skasować ale żal, może kiedyś się przydadzą
+70_events		  | materiały z konkretnych wydarzeń (np. prezentacji, konferencji, spotkań celowych)
+77_mindmap    | mapy myśli
+98_stash		  | jakieś podręczne rzeczy, notatki, coś stworzonego przez zespół projektu
+99_old			  | stare szpeje, rzeczy które w zasadzie można by skasować ale żal, może kiedyś się przydadzą
