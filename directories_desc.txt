@@ -1,5 +1,5 @@
 00_src			  | pliki źródłowe dla dokumentu, pracy tworzonej w katalogu głównym
-02_support      | materiały wsparcia do pracy, konkretnie odnoszące się do jakiś elementów pracy
+02_support          | materiały wsparcia do pracy, konkretnie odnoszące się do jakiś elementów pracy
 40_ref			  | materiały referencyjne, rzeczy stworzone przez inne osoby (ale nie dotyczą konkretnie pracy, raczej jakieś luźne materiały które mogą się przydać)
 50_workbench	| warsztat projektu, bieżące robocze pliki gównego projektu
 70_events		  | materiały z konkretnych wydarzeń (np. prezentacji, konferencji, spotkań celowych)
